@@ -1,5 +1,5 @@
 ## Hi , I'am Mayur👋
-🤖Aspiring Machine learning engineer<br>👨‍🎓Studied Computer Science at Savitribai Phule Pune University, Pune<br>💡Dedicated to continuous learning in the fields of ML, AI, and Data Science<br>✨Enthusiastic about the endless possibilities within ML/AI
+🤖Aspiring Machine learning engineer<br>✨Enthusiastic about the endless possibilities within ML/AI
 
 
 
