@@ -1,6 +1,6 @@
 # Hi, I'm Mayur Chandekar 👋
 
-🤖 **AI/ML Engineer** @ Data Florent Technology, Pune  
+🤖 **AI/ML Engineer** 
 🚀 Building RAG pipelines, LLM agents, and cloud infrastructure in production  
 🔍 Passionate about agentic AI, semantic search, and scalable ML systems
 
